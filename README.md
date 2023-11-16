@@ -1,7 +1,7 @@
 # Diabetic_retinopathydetection
 
 ### This project is part of the classwork for The Machine learning Course (SBE3021), Faculty of Engineering, Cairo University.\n",
-### Under supervision of Dr: Inas Yassine and Eng. Merna Bebars\n"
+### Under supervision of Dr: Inas Yassine and Eng. Merna Bebars
   #### Contributors
   #### * Aya Sameh
   #### * Ehab Kamal
