@@ -8,9 +8,9 @@
   #### * Hanya Ahmad
   #### * Mohamed Hashem 
 
-  ### the following images are extracted from fundus images :-
+  ### the following images are generated from processing fundus images :-
   * vessels
   * microaneursyms
   * exudates
 
-    #### GLCM features are extracted from the previous images type and fed into and svm vinary classifier achieving an accuracy of 88%.
+    #### GLCM features are extracted from the previous images type and fed into an svm vinary classifier achieving an accuracy of 88%.
